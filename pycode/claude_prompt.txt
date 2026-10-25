@@ -1,0 +1,62 @@
+## First Prompt:
+
+You are an experienced and friendly teacher specializing in early childhood education. Your goal is to help a 7-year-old child develop these skills:
+- Mathematical skills
+- Analytical and interpretation skills
+- Interpersonal skills
+- Manipulation skills (hands-on, problem-solving)
+- Presence of mind
+
+Create 10 question sets, with 10 questions in each set. Start at basic difficulty and move gradually to medium level by Set 10. Mix the five skills in every set (two questions per skill).
+
+Rules:
+1. Use simple English. Keep each question under 50 words.
+2. All maths must stay within 20. Use only addition, subtraction, and multiplication with numbers up to 5.
+3. Use these names as characters: Gaby, Nivan, Vedansh, Taha, Amyra, Tritha, Sofie, Kavya, Moon.
+4. Hands-on questions should be doable with paper, blocks, or things at home.
+5. Include an answer key. For social and quick-thinking questions, describe what a good answer looks like.
+
+Deliver everything as a Word document (.docx, A4). Include an intro page, one page per set with a Name and Date line, colour-coded skill labels beside each question, and the answer key at the end.
+
+## Second  Prompt:
+Make a second Word document with 10 new sets of 10 questions, in the same style as before. Keep the same rules (simple English, under 50 words, maths within 20).
+
+Changes:
+- Add more logical thinking and reasoning puzzles that a 7-year-old boy would enjoy: riddles, odd one out, patterns, ordering clues, secret codes, days of the week, and family-relationship puzzles.
+- Use these in every set: 2 maths, 3 logic, 2 social, 1 hands-on, 2 quick-thinking.
+- Add family characters: Mom, Dad, Grandfather, Grandmother, brothers, sisters, cousins, uncles, aunts.
+- Add places from India (Delhi, Mumbai, Jaipur, Kolkata, Kerala, Goa) and the Netherlands (Amsterdam, Rotterdam, Utrecht, The Hague, Delft, Kinderdijk, Keukenhof). Use everyday items such as kites, laddoos, cricket, stroopwafels, and canals.
+- Number the sets 11 to 20. Include an answer key and short notes for grown-ups on good answers to the social and quick-thinking questions. Mention that 112 is the emergency number in both countries.
+
+## Third Prompt:
+My child enjoys these worksheets. I want to grow his logical reasoning and deep thinking. Create 10 new sets of 10 questions as a Word document, in the same style as before, using real drawn pictures.
+
+Puzzle types to include (colour-coded label beside each question):
+Next (what shape comes next), Missing (fill the gap), Odd One Out, Mistake (find the wrong shape in a pattern), Match (find the exact same picture), Count, Order (smallest, biggest, most, fewest), Grid (2x2 and 3x3 missing-picture puzzles), Shape Math (shapes stand for numbers), Clue (corners and sides), Turn (same shape rotated, not flipped), Mirror.
+
+Rules:
+- Draw the shapes as images and embed them in the document. Give lettered options A to D.
+- Difficulty goes from very easy (Set 21) to medium challenge (Set 30).
+- Use character names in the question text. Keep the question text under 50 words and maths within 20.
+- Put 5 questions on each page, so each set takes 2 pages.
+- Include an intro page with tips for the grown-up (print in colour, ask "How did you know?", give hints not answers) and an answer key with a short reason for every answer.
+
+## Fourth Prompt:
+
+The last quiz was a hit. Make 10 more sets of 10 questions in the same document style. Make them slightly harder, but not too hard. The goal is for the child to read the question, interpret it, and try to solve it.
+
+Add these names as characters: Cheyon, Akito, Saira, Alex, Kavinya, Srivedansh, Ralf, Adelia, Mila, Frank, Mehak.
+
+Use different and unusual shapes: crescent moon, drop, lightning bolt, house, kite, parallelogram, trapezoid, ring, flower, half circle, quarter circle, leaf, oval, plus sign.
+
+Include "out of the box" puzzle types, each with a colour-coded label:
+- Machine: examples show what a magic machine does, and the child finds the output.
+- Shadow: match a silhouette to the shape that made it, including rotated versions.
+- Balance: pictures of weighing scales, either balanced or tilted.
+- Path: a robot moves on a grid map, using "forward" and "turn left or right".
+- Count: counting triangles or rectangles inside a figure, or counting with "not" and "or".
+- Clue: flags, trays of shapes, and rows of shapes with several clues.
+- Think: text-only brain teasers with a "My answer" line.
+- Also include Next, Odd One Out, Mistake, Grid, Shape Math, Turn, Mirror, and Missing.
+
+Rules: simple English, maths within 20 (addition, subtraction, multiplication up to 5), and each question under 50 words. Sets run from Medium (Set 31) to Super Challenge (Set 40), 2 pages per set. Include an intro page with the puzzle types explained, and an answer key with a one-line reason for every answer.
